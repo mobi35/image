@@ -16,7 +16,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Adi\\Image\\": "src/"
+            "Adi\\Image\\": "src/",
+            "Adi\\Image\\Tests\\": "tests/"
         }
     },
     "require-dev": {
