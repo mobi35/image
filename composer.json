@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Adrian",
-            "email": "Radores"
+            "email": "mobistyle35@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -18,5 +18,8 @@
         "psr-4": {
             "Adi\\Image\\": "src/"
         }
+    },
+    "require-dev": {
+        "orchestra/testbench": "8.0"
     }
 }
