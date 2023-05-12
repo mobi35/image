@@ -1,0 +1,22 @@
+{
+    "name": "adi/image",
+    "description": "Adi is cool",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian",
+            "email": "Radores"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Adi\\Image\\": "src/"
+        }
+    }
+}
